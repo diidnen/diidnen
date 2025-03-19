@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diidnen
 - 👀 I’m interested in Programming and Mathematics
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning deep learning and machine learning
 - 💞️ I’m looking to collaborate on Machine learning and Web development
 - 📫 How to reach me morrie3066924122@gmail.com
 
